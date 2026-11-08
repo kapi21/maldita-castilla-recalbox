@@ -1,0 +1,17 @@
+# Local / private
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# Do not commit private cab notes or secrets
+HANDOFF.md
+.env
+*.pem
+*.key
+
+# Build leftovers
+__pycache__/
+*.pyc

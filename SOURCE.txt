@@ -1,0 +1,19 @@
+Game data provenance
+====================
+
+MalditaCastilla.droid is redistributed unmodified for non-commercial use under
+the game's Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International license (see LICENSE.malditacastilla.txt).
+
+Public upstream packaging also exists in PortMaster:
+https://github.com/PortsMaster/PortMaster-New/tree/main/ports/maldita.castilla
+
+This Recalbox package runs the game through the AnyGM libretro core:
+https://github.com/retrodiv/AnyGM-libretro
+
+AnyGM.ini is the core configuration required by AnyGM.
+
+The .droid / Android GameMaker package may include YoYo Games' GameMaker
+runtime components, which are not covered by the CC BY-NC-ND license and are
+redistributed on the same footing as other public community ports that require
+the runner to launch the game.

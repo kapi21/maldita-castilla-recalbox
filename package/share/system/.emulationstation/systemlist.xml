@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<systemList>
+  <!-- Maldita Castilla / GameMaker via AnyGM (custom) -->
+  <system uuid="218cbbfe-b3ef-4325-bbae-f459842118f5" name="anygm" fullname="GameMaker (AnyGM)">
+    <descriptor path="%ROOT%/anygm" theme="anygm" extensions=".droid .win .apk .unx .zip .port .exe .gmd .gmk .gm6 .gm81" extension.types="*=file" icon="$F2a6" downloader="0"/>
+    <scraper screenscraper="135"/>
+    <properties type="engine" pad="mandatory" keyboard="optional" mouse="no" lightgun="no" releasedate="2012-12" manufacturer="Locomalito" retroachievements="0" crt.multiresolution="0" crt.multiregion="1" ignoredfiles=""/>
+    <emulatorList>
+      <emulator name="libretro">
+        <core name="anygm" priority="1" extensions=".droid .win .apk .unx .zip .port .exe .gmd .gmk .gm6 .gm81" netplay="0" softpatching="0" compatibility="high" speed="high" crt.available="1" video.backend="default"/>
+      </emulator>
+    </emulatorList>
+  </system>
+</systemList>

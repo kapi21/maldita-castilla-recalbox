@@ -1,0 +1,26 @@
+<theme>
+	
+	<view name="system">
+		<markdown name="info100" extra="true" color="ffffff" />
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<box name="band1" extra="true">
+			<color>4D603D</color>
+		</box>
+		<box name="band2" extra="true">
+			<color>5F7057</color>
+		</box>
+		<box name="band3" extra="true">
+			<color>424241</color>
+		</box>
+		<box name="band4" extra="true">
+			<color>838382</color>
+		</box>
+		
+		<box name="BackG" extra="true" color="34422b" />
+	</view>
+	<view name="detailed">
+	    <textlist name="gamelist"  selectorColor="000000${Alpha50}" selectedColor="ffffff" primaryColor="ffffff" secondaryColor="ffffff${Alpha50}" />
+	</view>
+</theme>
