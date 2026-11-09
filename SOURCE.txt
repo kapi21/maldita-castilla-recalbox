@@ -17,3 +17,7 @@ The .droid / Android GameMaker package may include YoYo Games' GameMaker
 runtime components, which are not covered by the CC BY-NC-ND license and are
 redistributed on the same footing as other public community ports that require
 the runner to launch the game.
+
+EmulationStation media (boxes / images / wheels / videos) matched to the
+working Recalbox RGB JAMMA 2 cabinet layout (2026-11-09). Separate thumb /
+screenshot assets are no longer shipped.

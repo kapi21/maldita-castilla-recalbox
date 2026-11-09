@@ -16,7 +16,7 @@ It uses the [AnyGM](https://github.com/retrodiv/AnyGM-libretro) libretro core an
 
 ## Features
 
-- Game data (`.droid`) + EmulationStation `gamelist` / media (box, wheel, video)
+- Game data (`.droid`) + EmulationStation `gamelist` / media (box, image, wheel, video — cabinet layout)
 - Prebuilt **aarch64** AnyGM core + `AnyGM.ini`
 - Custom system entry (`systemlist.xml`)
 - Theme logo + colors for `recalbox-next` / `recalbox-240p`
@@ -132,3 +132,4 @@ Si te gusta el juego, apoya a Locomalito en **https://locomalito.com**
 ## Contribuidores
 
 Ver [`CONTRIBUTORS.md`](CONTRIBUTORS.md). Empaquetado y documentación: **Cursor**.
+

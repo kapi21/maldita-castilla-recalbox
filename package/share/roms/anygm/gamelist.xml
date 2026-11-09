@@ -9,8 +9,8 @@
     <genre>Action</genre>
     <players>1</players>
     <image>./media/images/MalditaCastilla.png</image>
-    <thumbnail>./media/images/MalditaCastilla-thumb.png</thumbnail>
     <marquee>./media/wheels/MalditaCastilla.png</marquee>
+    <boxart>./media/boxes/MalditaCastilla.png</boxart>
     <video>./media/videos/MalditaCastilla.mp4</video>
   </game>
 </gameList>
