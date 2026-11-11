@@ -3,11 +3,14 @@
   <game>
     <path>./MalditaCastilla.droid</path>
     <name>Maldita Castilla</name>
-    <desc>Arcade action by Locomalito. Inspired by Ghosts 'n Goblins and Shinobi. Running via AnyGM on Recalbox RGB JAMMA 2.</desc>
+    <desc>Arcade action by Locomalito / Gryzor87. Inspired by Ghosts 'n Goblins and Shinobi. Freeware. Running via AnyGM on Recalbox RGB JAMMA 2.</desc>
     <developer>Locomalito</developer>
     <publisher>Locomalito</publisher>
-    <genre>Action</genre>
+    <genre>Action,Platform</genre>
     <players>1</players>
+    <releasedate>20121212T000000</releasedate>
+    <region>eu</region>
+    <lang>en</lang>
     <image>./media/images/MalditaCastilla.png</image>
     <marquee>./media/wheels/MalditaCastilla.png</marquee>
     <boxart>./media/boxes/MalditaCastilla.png</boxart>

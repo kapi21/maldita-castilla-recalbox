@@ -20,7 +20,8 @@ It uses the [AnyGM](https://github.com/retrodiv/AnyGM-libretro) libretro core an
 - Prebuilt **aarch64** AnyGM core + `AnyGM.ini`
 - Custom system entry (`systemlist.xml`)
 - Theme logo + colors for `recalbox-next` / `recalbox-240p`
-- Simple install guide: copy folders + one short SSH step
+- Global EmulationStation logo (`system/resources/logos/anygm.svg`)
+- Simple install guide: copy folders + one short SSH step (prefer **Update** / full `reboot`; avoid `killall emulationstation`)
 
 ## Requirements
 
@@ -35,7 +36,7 @@ It uses the [AnyGM](https://github.com/retrodiv/AnyGM-libretro) libretro core an
 3. Over SSH, install the core into `/usr/lib/libretro/` (commands in the install guide).
 4. Open **GameMaker (AnyGM)** → **Maldita Castilla**.
 
-Full steps (EN/ES): **[docs/INSTALL.md](docs/INSTALL.md)**
+Full steps (EN/ES): **[docs/INSTALL.md](docs/INSTALL.md)** · Spanish walkthrough: **[LEEME.md](LEEME.md)**
 
 ## Repository layout
 
@@ -46,6 +47,7 @@ package/
 docs/
   INSTALL.md             → full install guide (EN + ES)
   media/                 → screenshots / cabinet photo
+LEEME.md                 → Spanish step-by-step guide
 LICENSE                  → MIT (packaging & docs only)
 LICENSE.malditacastilla.txt
 SOURCE.txt
@@ -69,7 +71,7 @@ If you enjoy the game, support Locomalito at **https://locomalito.com**
 
 ## Contributors
 
-See [`CONTRIBUTORS.md`](CONTRIBUTORS.md). Packaging and docs contributor: **Cursor**.
+See [`CONTRIBUTORS.md`](CONTRIBUTORS.md). Maintainer: **kapi21**.
 
 ## Related projects
 
@@ -97,7 +99,8 @@ Usa el core libretro [AnyGM](https://github.com/retrodiv/AnyGM-libretro) y un si
 - Core AnyGM **aarch64** + `AnyGM.ini`
 - Entrada de sistema (`systemlist.xml`)
 - Logo y colores para `recalbox-next` / `recalbox-240p`
-- Guía sencilla: copiar carpetas + un paso corto por SSH
+- Logo global ES (`system/resources/logos/anygm.svg`)
+- Guía sencilla: copiar carpetas + SSH (preferir **Update** / `reboot`; evitar `killall emulationstation`)
 
 ## Requisitos
 
@@ -112,7 +115,7 @@ Usa el core libretro [AnyGM](https://github.com/retrodiv/AnyGM-libretro) y un si
 3. Por SSH, instala el core en `/usr/lib/libretro/`.
 4. Abre **GameMaker (AnyGM)** → **Maldita Castilla**.
 
-Guía completa (EN/ES): **[docs/INSTALL.md](docs/INSTALL.md)**
+Guía completa (EN/ES): **[docs/INSTALL.md](docs/INSTALL.md)** · Paso a paso ES: **[LEEME.md](LEEME.md)**
 
 ## Licencia y créditos
 
@@ -131,5 +134,5 @@ Si te gusta el juego, apoya a Locomalito en **https://locomalito.com**
 
 ## Contribuidores
 
-Ver [`CONTRIBUTORS.md`](CONTRIBUTORS.md). Empaquetado y documentación: **Cursor**.
+Ver [`CONTRIBUTORS.md`](CONTRIBUTORS.md). Mantenedor: **kapi21**.
 

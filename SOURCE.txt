@@ -21,3 +21,6 @@ the runner to launch the game.
 EmulationStation media (boxes / images / wheels / videos) matched to the
 working Recalbox RGB JAMMA 2 cabinet layout (2026-11-09). Separate thumb /
 screenshot assets are no longer shipped.
+
+anygm.svg under package/share/system/resources/logos/ is the global
+EmulationStation system logo for themes that use ${system.logo}.
